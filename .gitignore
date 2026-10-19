@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+vector_store/*.index
+vector_store/*.pkl
+data/raw/*.pdf
+
+venv/
+.DS_Store
+*.log
+.pytest_cache/
+

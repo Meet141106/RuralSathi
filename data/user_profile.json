@@ -1,0 +1,24 @@
+{
+  "name": "Meet",
+  "district": "Pune",
+  "state": "Maharashtra",
+  "crops": [
+    "Wheat"
+  ],
+  "language": "en",
+  "land_size": "< 1 hectare",
+  "has_aadhaar_bank": "Yes",
+  "saved_questions": [
+    {
+      "question": "What fertilizer for wheat?",
+      "answer": "Apply Urea top dressing @ 60kg/ha at CRI stage.",
+      "timestamp": "2026-10-17T09:04:32.916509"
+    },
+    {
+      "question": "What do I do if my wheat crop has yellow rust?",
+      "answer": "⚡ You appear to be offline and this question hasn't been cached yet. Please connect to the internet or try a previously asked question from the Offline Cache in the sidebar.",
+      "timestamp": "2026-10-17T12:13:02.883665"
+    }
+  ],
+  "feedback_given": 0
+}

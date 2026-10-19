@@ -1,0 +1,32 @@
+# Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) Scheme: Operational Guidelines & Eligibility
+
+## 1. Scheme Overview
+Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector Scheme launched by the Government of India in February 2019 to provide income support to all landholding farmer families across the nation.
+
+## 2. Financial Benefit and Disbursement Mechanism
+Under the PM-KISAN scheme, eligible farmer families receive a financial benefit of Rs 6,000 per year.
+- The amount is disbursed in three equal four-monthly installments of Rs 2,000 each.
+- Transfer periods: April-July (Period 1), August-November (Period 2), and December-March (Period 3).
+- Direct Benefit Transfer (DBT): Payments are credited directly into bank accounts linked with Aadhaar and National Payments Corporation of India (NPCI) payment gateway.
+
+## 3. Eligibility Criteria
+1. The scheme defines a farmer family as a husband, wife, and minor children owning cultivable land as per land records of the respective State or Union Territory.
+2. The beneficiary must possess valid landownership documentation (RoR/Khasra/Khatauni).
+3. The landholding must be cultivable agricultural land registered before the cutoff date of February 1, 2019.
+
+## 4. Exclusion Categories
+The following categories of beneficiaries are strictly excluded from receiving financial benefits under PM-KISAN:
+1. Institutional landholders (agricultural land owned by trusts, religious institutions, corporate farms, or government departments).
+2. Farmer families where one or more members belong to the following categories:
+   - Former and present holders of constitutional posts.
+   - Former and present Ministers, State Ministers, Members of Lok Sabha, Rajya Sabha, State Legislative Assemblies, or Mayors of Municipal Corporations.
+   - All serving or retired officers and employees of Central/State Government Ministries, autonomous institutions, and regular employees of local bodies (excluding Multi-Tasking Staff / Class IV / Group D employees).
+   - All superannuated/retired pensioners whose monthly pension is Rs 10,000 or more.
+   - Persons who paid Income Tax in the last assessment year.
+   - Professionals such as Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with professional bodies.
+
+## 5. Mandatory Verification and e-KYC Protocol
+To ensure targeted delivery and eliminate duplicate entries:
+- Aadhaar mandatory linkage: Every beneficiary must complete biometric e-KYC or OTP-based e-KYC on the PM-KISAN portal (pmkisan.gov.in) or mobile application.
+- Land record seeding: State revenue departments must verify and seed land ownership details with the national portal.
+- Bank Account NPCI DBT-enablement: Beneficiary accounts must have Aadhaar seeding enabled at bank branches.

@@ -1,0 +1,323 @@
+[
+  {
+    "timestamp": "2026-10-17T09:07:09.795733",
+    "event": "question_asked",
+    "question": "What fertilizer for wheat?",
+    "category": "Fertilizers",
+    "abstained": false,
+    "latency": 0.4
+  },
+  {
+    "timestamp": "2026-10-17T09:07:09.795912",
+    "event": "question_asked",
+    "question": "Who won the cricket match?",
+    "category": "General",
+    "abstained": true,
+    "latency": 0.1
+  },
+  {
+    "timestamp": "2026-10-17T09:07:09.796039",
+    "event": "feedback_given",
+    "positive": true,
+    "question": "What fertilizer for wheat?"
+  },
+  {
+    "timestamp": "2026-10-17T09:17:33.214879",
+    "event": "test",
+    "question": "test question",
+    "category": "General",
+    "abstained": false,
+    "latency": 0.5,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T12:12:54.185680",
+    "event": "question_asked",
+    "question": "What do I do if my wheat crop has yellow rust?",
+    "category": "Pest Control",
+    "abstained": true,
+    "latency": 1.51,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T12:19:03.138637",
+    "event": "question_asked",
+    "question": "What fertilizer for wheat?",
+    "category": "Fertilizers",
+    "abstained": false,
+    "latency": 1.5,
+    "from_cache": true,
+    "district": "Mumbai"
+  },
+  {
+    "timestamp": "2026-10-17T12:20:05.547606",
+    "event": "question_asked",
+    "question": "How do I identify and treat pest diseases in rice?",
+    "category": "Pest Control",
+    "abstained": true,
+    "latency": 1.51,
+    "from_cache": false,
+    "district": "Mumbai"
+  },
+  {
+    "timestamp": "2026-10-17T12:22:23.871041",
+    "event": "feedback_given",
+    "positive": true,
+    "question": "How do I identify and treat pest diseases in rice?"
+  },
+  {
+    "timestamp": "2026-10-17T12:32:56.332904",
+    "event": "question_asked",
+    "question": "precaution for heavy rain?????",
+    "category": "Weather & Water",
+    "abstained": false,
+    "latency": 3.17,
+    "from_cache": false,
+    "district": "Mumbai"
+  },
+  {
+    "timestamp": "2026-10-17T12:32:56.333551",
+    "event": "conflict_detected",
+    "question": "precaution for heavy rain?????",
+    "conflict_type": "Discrepancies in recommended eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T12:35:32.296361",
+    "event": "question_asked",
+    "question": "بھائی میرے کو پی ایم کسان سکیم کا ڈیٹیلز دینا",
+    "category": "General",
+    "abstained": true,
+    "latency": 13.49,
+    "from_cache": false,
+    "district": "Mumbai"
+  },
+  {
+    "timestamp": "2026-10-17T12:35:32.296719",
+    "event": "conflict_detected",
+    "question": "بھائی میرے کو پی ایم کسان سکیم کا ڈیٹیلز دینا",
+    "conflict_type": "Discrepancies in recommended eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T12:35:57.397038",
+    "event": "question_asked",
+    "question": "precaution for heavy rain",
+    "category": "Weather & Water",
+    "abstained": false,
+    "latency": 6.36,
+    "from_cache": false,
+    "district": "Mumbai"
+  },
+  {
+    "timestamp": "2026-10-17T12:35:57.397504",
+    "event": "conflict_detected",
+    "question": "precaution for heavy rain",
+    "conflict_type": "Discrepancies in recommended eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T12:36:23.214569",
+    "event": "question_asked",
+    "question": "پی ایم کے سامنڈ سکیم کی ڈیٹیلز دونا گائیز",
+    "category": "General",
+    "abstained": true,
+    "latency": 2.92,
+    "from_cache": false,
+    "district": "Mumbai"
+  },
+  {
+    "timestamp": "2026-10-17T12:36:23.214995",
+    "event": "conflict_detected",
+    "question": "پی ایم کے سامنڈ سکیم کی ڈیٹیلز دونا گائیز",
+    "conflict_type": "Discrepancies in recommended eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T12:37:28.920391",
+    "event": "question_asked",
+    "question": "बाहू आता टेमप्रेचर काही है गुज़रात में?",
+    "category": "General",
+    "abstained": true,
+    "latency": 4.7,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T12:37:28.920845",
+    "event": "conflict_detected",
+    "question": "बाहू आता टेमप्रेचर काही है गुज़रात में?",
+    "conflict_type": "Discrepancies in recommended eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T12:40:28.096000",
+    "event": "question_asked",
+    "question": "What fertilizer should I use for wheat crop?",
+    "category": "Fertilizers",
+    "abstained": false,
+    "latency": 4.99,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T12:40:28.096860",
+    "event": "conflict_detected",
+    "question": "What fertilizer should I use for wheat crop?",
+    "conflict_type": "Discrepancies in recommended dose, eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T12:50:25.276647",
+    "event": "scheme_searched",
+    "land": "< 1 hectare (Small / Marginal)",
+    "state": "Punjab",
+    "crops": [
+      "Wheat"
+    ]
+  },
+  {
+    "timestamp": "2026-10-17T12:50:45.572524",
+    "event": "scheme_searched",
+    "land": "< 1 hectare (Small / Marginal)",
+    "state": "Maharashtra",
+    "crops": [
+      "Wheat"
+    ]
+  },
+  {
+    "timestamp": "2026-10-17T12:58:07.537544",
+    "event": "question_asked",
+    "question": "What fertilizer should I use for wheat crop?",
+    "category": "Fertilizers",
+    "abstained": false,
+    "latency": 2.38,
+    "from_cache": true,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T12:58:07.539522",
+    "event": "conflict_detected",
+    "question": "What fertilizer should I use for wheat crop?",
+    "conflict_type": "Discrepancies in recommended dose, eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T12:58:31.670838",
+    "event": "question_asked",
+    "question": "give me code for cpp",
+    "category": "General",
+    "abstained": true,
+    "latency": 2.91,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T12:58:31.671254",
+    "event": "conflict_detected",
+    "question": "give me code for cpp",
+    "conflict_type": "Discrepancies in recommended eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T13:00:57.883210",
+    "event": "question_asked",
+    "question": "Crop photo diagnosis: Healthy Plant",
+    "category": "pest_disease",
+    "abstained": false,
+    "latency": 0.5,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:02:42.239206",
+    "event": "question_asked",
+    "question": "Crop photo diagnosis: Gray Leaf Spot",
+    "category": "pest_disease",
+    "abstained": false,
+    "latency": 0.5,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:03:29.719907",
+    "event": "question_asked",
+    "question": "Crop photo diagnosis: Late Blight (Fungal Disease)",
+    "category": "pest_disease",
+    "abstained": false,
+    "latency": 0.5,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:04:22.210774",
+    "event": "question_asked",
+    "question": "ये हूँ मैं कोई चार्फ ये हूँ मैं कोई चार्फ",
+    "category": "General",
+    "abstained": true,
+    "latency": 4.16,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:04:47.349510",
+    "event": "question_asked",
+    "question": "बाई गे हूँ में कौछा पर्टीलाइजर दूस करना चाहती है",
+    "category": "General",
+    "abstained": true,
+    "latency": 4.28,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:04:47.350116",
+    "event": "conflict_detected",
+    "question": "बाई गे हूँ में कौछा पर्टीलाइजर दूस करना चाहती है",
+    "conflict_type": "Discrepancies in recommended dose, eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T13:09:06.319822",
+    "event": "question_asked",
+    "question": "What fertilizer should I use for wheat crop?",
+    "category": "Fertilizers",
+    "abstained": false,
+    "latency": 2.37,
+    "from_cache": true,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:09:06.322577",
+    "event": "conflict_detected",
+    "question": "What fertilizer should I use for wheat crop?",
+    "conflict_type": "Discrepancies in recommended dose, eligibility"
+  },
+  {
+    "timestamp": "2026-10-17T13:16:25.313499",
+    "event": "question_asked",
+    "question": "बाहू आता टेम्प्रेचर काही है गुजरात में?",
+    "category": "General",
+    "abstained": false,
+    "latency": 7.42,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:32:25.899474",
+    "event": "question_asked",
+    "question": "बाहू आता विले पारले डीजे सांगवीचा आजु बाजु टेम्परेचर काई आहे।",
+    "category": "General",
+    "abstained": false,
+    "latency": 11.68,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:50:43.929988",
+    "event": "question_asked",
+    "question": "what are the differnt scehemens available which can benefit me",
+    "category": "General",
+    "abstained": true,
+    "latency": 1.13,
+    "from_cache": false,
+    "district": "Pune"
+  },
+  {
+    "timestamp": "2026-10-17T13:50:43.931477",
+    "event": "conflict_detected",
+    "question": "what are the differnt scehemens available which can benefit me",
+    "conflict_type": "Discrepancies in recommended eligibility"
+  }
+]

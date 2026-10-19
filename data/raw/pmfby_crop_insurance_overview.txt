@@ -1,0 +1,28 @@
+# Pradhan Mantri Fasal Bima Yojana (PMFBY): Comprehensive Scheme Guidelines
+
+## 1. Objectives and Scope
+Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched by the Ministry of Agriculture and Farmers Welfare to provide comprehensive financial insurance protection against crop loss resulting from non-preventable natural risks, thereby stabilizing farmer incomes and encouraging modern agricultural investments.
+
+## 2. Crops Covered
+- Food crops (Cereals, Millets, and Pulses)
+- Oilseeds
+- Annual Commercial and Annual Horticultural crops notified by respective State Governments.
+
+## 3. Actuarial Premium Rates Payable by Farmers
+PMFBY drastically minimizes premium burden on farmers:
+- **Kharif Crops:** Maximum 2.0% of Sum Insured or actuarial rate, whichever is lower.
+- **Rabi Food Grain & Oilseed Crops:** Maximum 1.5% of Sum Insured or actuarial rate, whichever is lower.
+- **Commercial / Horticultural Crops:** Maximum 5.0% of Sum Insured.
+- The balance actuarial premium subsidy is shared 50:50 between the Central Government and State Governments (90:10 for North Eastern states).
+
+## 4. Coverage of Natural Risks and Stages of Cultivation
+PMFBY offers end-to-end risk cover throughout the crop cycle:
+1. **Prevented Sowing / Planting Risk:** If insured farmers are prevented from sowing or planting due to deficit rainfall or adverse seasonal conditions (up to 25% of sum insured paid).
+2. **Standing Crop (Sowing to Harvesting):** Comprehensive risk insurance against non-preventable risks: drought, dry spells, flood, inundation, wide-spread pests and diseases, landslides, natural fire, lightning, storm, cyclone, and hailstorm.
+3. **Post-Harvest Losses:** Coverage available up to a maximum period of 14 days from harvesting for crops kept in 'cut and spread' condition in the field against specific perils of hail, cyclone, cyclonic rains, and unseasonal rains.
+4. **Localized Calamities:** Loss or damage resulting from occurrence of localized perils like hailstorm, landslide, cloudburst, inundation affecting isolated farms.
+
+## 5. Claim Assessment and Settlement
+- Assessment relies on Crop Cutting Experiments (CCEs) conducted under state supervision, increasingly monitored using satellite imagery, remote sensing, and the CROPIC mobile app.
+- For localized calamities and post-harvest losses, farmers must intimate the insurance company, local agriculture office, or the toll-free PMFBY helpline (14447) within 72 hours of damage occurrence.
+- Essential Documents Required: Aadhaar card, Bank Passbook, Land Revenue Record (Khasra/7-12), Sowing Declaration Certificate, and Tenant Farming Lease Agreement if applicable.

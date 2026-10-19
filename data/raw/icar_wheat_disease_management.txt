@@ -1,0 +1,33 @@
+# ICAR Technical Advisory Bulletin: Comprehensive Disease Management in Wheat Cultivation
+
+## 1. Introduction and Economic Importance
+Wheat (Triticum aestivum) is the premier rabi cereal crop of India, occupying over 30 million hectares predominantly in the Indo-Gangetic Plains. The productivity of wheat is substantially challenged by several fungal pathogens, abiotic stress factors, and climate variations. Timely diagnosis, prophylactic measures, and integrated chemical applications are imperative to safeguard farm incomes and national food security.
+
+## 2. Major Fungal Diseases of Wheat
+
+### A. Yellow (Stripe) Rust (Puccinia striiformis f. sp. tritici)
+Yellow rust is a devastating foliar disease prevalent in the North-Western Plains Zone (Punjab, Haryana, Western Uttar Pradesh, Jammu & Kashmir, and Himachal Pradesh).
+- **Symptoms:** Yellow pustules arranged in characteristic linear stripes parallel to leaf veins, releasing yellow urediniospores when touched. In severe conditions, heads, glumes, and awns become infected.
+- **Predisposing Conditions:** Temperatures between 10°C to 20°C combined with high relative humidity (>85%), frequent morning fog, and cloudy weather during January and February.
+- **Control Measures:** Cultivate resistant cultivars such as HD-3086, DBW-187, DBW-222, and PBW-550. If yellow pustules appear, spray Propiconazole 25% EC (Tilt) @ 0.1% (500 ml dissolved in 500 litres of water per hectare) or Tebuconazole 250 EC @ 1 ml/litre. Repeat after 15 days if conditions remain cloudy and wet.
+
+### B. Brown (Leaf) Rust (Puccinia triticina)
+Brown rust occurs across all wheat zones towards late rabi (February-March).
+- **Symptoms:** Small, round to oblong orange-brown pustules scattered irregularly over the leaf lamina without forming parallel lines.
+- **Predisposing Factors:** Warm temperatures (20°C to 25°C) with free moisture on leaf blades.
+- **Control Measures:** Grow tolerant varieties like HD-2967, WH-1105, or GW-322. Spray Mancozeb 75 WP @ 2.5 g/litre or Hexaconazole 5 EC @ 1 ml/litre at early onset.
+
+### C. Karnal Bunt (Tilletia indica)
+Karnal bunt is an internationally quarantined disease that impairs grain quality and flour aroma.
+- **Symptoms:** Only a portion of each individual grain is transformed into a black sooty powdery mass of teliospores smelling of rotten fish due to trimethylamine emission.
+- **Control Measures:** Avoid sowing infected seed stocks. Seed treatment with Thiram 75 WP or Carbendazim 50 WP @ 2 g/kg seed. Avoid heavy flood irrigation during the boot to anthesis stages. Spray Propiconazole 25 EC @ 500 ml/ha during 50% ear emergence stage if disease history exists.
+
+### D. Loose Smut (Ustilago tritici)
+An internally seed-borne pathogen where every floral part is replaced by an olive-black teliospore mass.
+- **Control Measures:** Hot water seed treatment (soaking seeds in water at 20°C for 5 hours followed by 52°C water bath for 10 minutes) or systemic chemical seed treatment with Carboxin 75 WP or Tebuconazole 2 DS @ 1.5 g/kg seed.
+
+## 3. Cultural Practices and Preventative Agronomy
+1. **Crop Rotation:** Rotate wheat with leguminous crops like chickpea or lentil to break pathogen lifecycles.
+2. **Balanced Nutrition:** Apply NPK fertilizers strictly in the ratio of 120:60:40 kg/ha. Avoid excess split nitrogen doses during late vegetative growth, as excessive succulent vegetative tissue predisposes the crop to rust.
+3. **Optimized Seed Density:** Maintain seed rate of 100 kg/ha for timely sown irrigated crop and 125 kg/ha for late sown conditions using seed drills at 20-22.5 cm row spacing.
+4. **Water Drainage:** Prevent water stagnation during initial crown root initiation and grain filling stages.

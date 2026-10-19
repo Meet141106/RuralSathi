@@ -1,0 +1,12 @@
+# National Agro-Meteorological Advisory Bulletin - Kharif & Rabi Transition
+
+The India Meteorological Department (IMD) and Agromet Advisory Service issue regular crop recommendations based on prevailing weather patterns across Indian agro-climatic zones.
+
+## General Weather Preparedness
+Farmers across Northern and Central India should monitor soil moisture levels following post-monsoon withdrawal. In areas experiencing isolated pre-winter rain showers, postpone intercultural operations such as hoeing and weeding for 48 hours to prevent soil compaction.
+
+## Sowing Directives for Rabi Crops
+Optimal sowing window for Rabi crops like wheat, chickpea, mustard, and barley begins when mean daily temperatures drop consistently below 25°C. Sowing in warm soil hampers germination and seedling vigour. Treat seeds before sowing with Trichoderma viride @ 5g/kg or Captan @ 2.5g/kg seed to prevent seedling blight and collar rot.
+
+## Pest and Disease Vigilance
+In humid regions of Gangetic plains, early morning dew creates microclimatic conditions conducive to powdery mildew and aphid infestation. Farmers are advised to set up yellow sticky traps (10 per acre) and survey fields twice a week. If aphid density exceeds economic threshold levels (ETL), spray neem seed kernel extract (NSKE 5%) or recommended systemic insecticides during late afternoon hours.

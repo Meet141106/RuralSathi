@@ -1,0 +1,148 @@
+{
+  "0d4203acd676": {
+    "query": "precaution for heavy rain",
+    "answer": "When heavy rainfall or a storm warning is issued, here are some precautions you should take:\n\n1. Ensure proper drainage channels in your crop fields to quickly drain excess standing water.\n2. Postpone the spraying of fertilizers and pesticides.\n3. Harvest mature crops immediately to prevent losses.\n4. Move livestock to elevated and sheltered areas to protect them from flooding.\n\nAdditionally, if heavy rain leads to waterlogging, excavate field boundary drainage channels with a minimum slope of 0.5% to evacuate standing water within 24 hours. \n\nIt's also advisable to monitor soil moisture levels and postpone intercultural operations like hoeing and weeding for 48 hours to prevent soil compaction.\n\n(Source: KCC Dataset, advisory_soil_pest_management.txt, advisory_bulletin_imd.txt)",
+    "sources": [
+      {
+        "name": "KCC Dataset",
+        "chunk_id": "KCC_Dataset_16",
+        "reranker_score": 7.139,
+        "text_snippet": "Q: What precautions should be taken when heavy rainfall or storm warning is issued? A: Ensure proper drainage channels in crop fields to dra"
+      },
+      {
+        "name": "advisory_soil_pest_management.txt",
+        "chunk_id": "advisory_soil_pest_management_txt_4",
+        "reranker_score": 3.585,
+        "text_snippet": "## Waterlogging and Drainage Mitigation Heavy and unseasonal rainfall can lead to root asphyxiation in pulses and vegetables. Farmers should"
+      },
+      {
+        "name": "advisory_bulletin_imd.txt",
+        "chunk_id": "advisory_bulletin_imd_txt_2",
+        "reranker_score": -2.743,
+        "text_snippet": "## General Weather Preparedness Farmers across Northern and Central India should monitor soil moisture levels following post-monsoon withdra"
+      }
+    ],
+    "conflict_result": {
+      "has_conflict": true,
+      "numeric_conflicts": [
+        {
+          "category": "eligibility",
+          "values": [
+            0.5,
+            24.0,
+            48.0
+          ],
+          "sources": [
+            "advisory_bulletin_imd.txt",
+            "advisory_soil_pest_management.txt"
+          ]
+        }
+      ],
+      "date_conflicts": {
+        "has_conflict": false,
+        "details": ""
+      },
+      "conflict_summary": "Discrepancies in recommended eligibility"
+    },
+    "timestamp": "2026-10-17T12:35:57.395514",
+    "cached": true
+  },
+  "8728673b8fca": {
+    "query": "What fertilizer should I use for wheat crop?",
+    "answer": "For wheat crop, you should apply NPK fertilizers in the ratio of 120:60:40 kg/ha. Additionally, during the crown root initiation stage (20-25 days after sowing), apply top dressing of Urea at around 60 kg/ha nitrogen at the time of the first irrigation. Ensure that there is adequate soil moisture during this period. \n\n(Source: KCC Dataset 1 and icar_wheat_disease_management.txt)",
+    "sources": [
+      {
+        "name": "KCC Dataset",
+        "chunk_id": "KCC_Dataset_1",
+        "reranker_score": 7.36,
+        "text_snippet": "Q: What fertilizer should I apply for wheat crop during crown root initiation? A: Apply top dressing of Urea (around 60 kg/ha nitrogen) at t"
+      },
+      {
+        "name": "icar_wheat_disease_management.txt",
+        "chunk_id": "icar_wheat_disease_management_txt_9",
+        "reranker_score": 2.806,
+        "text_snippet": "## 3. Cultural Practices and Preventative Agronomy 1. **Crop Rotation:** Rotate wheat with leguminous crops like chickpea or lentil to break"
+      },
+      {
+        "name": "KCC Dataset",
+        "chunk_id": "KCC_Dataset_2",
+        "reranker_score": -1.93,
+        "text_snippet": "Q: How to manage yellow rust disease in wheat crop? A: Spray Propiconazole 25 EC (Tilt) @ 0.1% (1 ml per litre of water) or Tebuconazole 250"
+      }
+    ],
+    "conflict_result": {
+      "has_conflict": true,
+      "numeric_conflicts": [
+        {
+          "category": "dose",
+          "values": [
+            1.0,
+            2.0,
+            3.0,
+            20.0,
+            25.0
+          ],
+          "sources": [
+            "icar_wheat_disease_management.txt",
+            "KCC Dataset"
+          ]
+        },
+        {
+          "category": "eligibility",
+          "values": [
+            0.1,
+            1.0,
+            2.0,
+            3.0,
+            15.0
+          ],
+          "sources": [
+            "icar_wheat_disease_management.txt",
+            "KCC Dataset"
+          ]
+        }
+      ],
+      "date_conflicts": {
+        "has_conflict": false,
+        "details": ""
+      },
+      "conflict_summary": "Discrepancies in recommended dose, eligibility"
+    },
+    "timestamp": "2026-10-17T12:40:28.094180",
+    "cached": true
+  },
+  "ef47f275d2c2": {
+    "query": "बाहू आता टेम्प्रेचर काही है गुजरात में?",
+    "answer": "फिलहाल गुजरात के अहमदाबाद में तापमान 36.9°C है. \n\n(स्रोत: लाइव ओपन-मेटियो वेदर एपीआई (अहमदाबाद))",
+    "sources": [
+      {
+        "name": "Live Open-Meteo Weather API (Ahmedabad)",
+        "chunk_id": "weather_Ahmedabad",
+        "reranker_score": 1.0,
+        "text_snippet": "Live Agro-Meteorological Report for Ahmedabad: Current Temperature: 36.9°C Current Sky Condition: Partly cloudy Rain Alert Status: Normal we"
+      }
+    ],
+    "conflict_result": {
+      "has_conflict": false
+    },
+    "timestamp": "2026-10-17T13:16:25.305235",
+    "cached": true
+  },
+  "a1862ea30411": {
+    "query": "बाहू आता विले पारले डीजे सांगवीचा आजु बाजु टेम्परेचर काई आहे।",
+    "answer": "माझ्या सध्याच्या माहितीमध्ये विले पारले किंवा डीजे सांगवी तापमान नाही. पण तापमान ३३.३°C आहे. \n\nकृपया स्थानिक कृषी अधिकारी किंवा किसान कॉल सेन्टर (1800-180-1551) यांच्याशी संपर्क साधा. \n\n(स्रोत: Live Open-Meteo Weather API (पुणे))",
+    "sources": [
+      {
+        "name": "Live Open-Meteo Weather API (Pune)",
+        "chunk_id": "weather_Pune",
+        "reranker_score": 1.0,
+        "text_snippet": "Live Agro-Meteorological Report for Pune: Current Temperature: 33.3°C Current Sky Condition: Partly cloudy Rain Alert Status: Normal weather"
+      }
+    ],
+    "conflict_result": {
+      "has_conflict": false
+    },
+    "timestamp": "2026-10-17T13:32:25.894622",
+    "cached": true
+  }
+}

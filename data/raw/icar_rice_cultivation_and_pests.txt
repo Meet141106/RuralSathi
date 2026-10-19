@@ -1,0 +1,33 @@
+# ICAR Technical Guide: Modern Rice Cultivation Practices, Pest Control, and Water Management
+
+## 1. Agro-Ecological Context
+Rice (Oryza sativa) constitutes the staple food for more than 60 percent of the Indian populace. Sustainable intensification through the System of Rice Intensification (SRI), Direct Seeded Rice (DSR), and scientific transplanted puddled rice helps optimize water productivity and minimizes greenhouse emissions while boosting paddy yields.
+
+## 2. Nursery Management and Land Preparation
+For conventional transplanted rice, establish raised nursery beds 1.5 m wide with drainage channels. Use 25-30 kg certified seed per hectare.
+- **Seed Treatment:** Soak seeds in brine solution (10% salt) to eliminate chaffy lightweight seeds. Wash viable sunk seeds and soak for 24 hours in Streptocycline solution (0.1 g/litre) plus Carbendazim @ 2 g/kg seed to eradicate seed-borne bacterial blight and brown spot.
+- **Main Field Puddling:** Puddle soil twice with disc harrows followed by leveling. Incorporate 5 tonnes of well-decomposed FYM or compost per hectare at primary tillage.
+
+## 3. Transplanting and Sowing Protocols
+- **Transplanting Window:** Transplant 21-25 day old seedlings (3-4 leaves stage) at 2-3 seedlings per hill with 20 cm x 15 cm spacing.
+- **Direct Seeded Rice (DSR):** Sown using zero-till seed-cum-fertilizer drills before onset of heavy monsoon showers. Treat seeds with fungicides and apply pre-emergence herbicide Pendimethalin 30 EC @ 1.0 kg a.i./ha within 48 hours of sowing to keep fields weed-free.
+
+## 4. Water Management: Alternate Wetting and Drying (AWD)
+Continuous ponding of 5-10 cm water wastes enormous underground aquifers and breeds anaerobic methane.
+- Maintain 2-3 cm shallow water layer for the first 15 days to assist root anchor and tiller initiation.
+- Afterwards, practice Alternate Wetting and Drying (AWD) using perforated field water pipes: allow water table to drop 15 cm below soil surface before re-irrigating to 5 cm depth.
+- Drain standing water completely 10-12 days prior to expected harvest to facilitate machine harvesting and uniform grain ripening.
+
+## 5. Major Insect Pests and Management
+
+### A. Yellow Stem Borer (Scirpophaga incertulas)
+- **Damage:** Causes "dead hearts" in vegetative phase and "white ears" with chaffy grains during panicle emergence.
+- **Control:** Install sex pheromone traps @ 8 traps/ha. Apply Cartap Hydrochloride 4G @ 10 kg/acre or spray Chlorantraniliprole 18.5 SC @ 60 ml/acre in 200 litres water.
+
+### B. Brown Planthopper (BPH - Nilaparvata lugens)
+- **Damage:** Sucks sap at base of tillers causing circular dry patches known as "hopper burn".
+- **Control:** Provide alleyways of 30 cm every 2-3 meters for aeration. Avoid resurgence-inducing pyrethroids. Spray Triflumezopyrim 10 SC @ 94 ml/acre or Pymetrozine 50 WG @ 120 g/acre directing spray nozzle towards the base of rice clumps.
+
+### C. Rice Blast (Magnaporthe oryzae)
+- **Symptoms:** Spindle-shaped lesions with ash-grey centers on leaves (leaf blast) and dark lesions around the neck of panicle (neck blast).
+- **Control:** Spray Tricyclazole 75 WP @ 0.6 g/litre or Isoprothiolane 40 EC @ 1.5 ml/litre at panicle initiation stage.

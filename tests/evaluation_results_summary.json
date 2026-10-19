@@ -1,0 +1,8 @@
+{
+  "total_questions": 25,
+  "answerable_accuracy": "15/15",
+  "off_topic_abstention": "5/5",
+  "multi_chunk_success": "4/5",
+  "average_latency_seconds": 0.51,
+  "source_citation_rate_pct": 76.0
+}

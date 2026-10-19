@@ -1,0 +1,40 @@
+# ICAR - CICR Advisory: Integrated Pest Management and Canopy Architecture in Cotton Cultivation
+
+## 1. Agro-Ecological Importance
+Cotton (Gossypium hirsutum / arboreum) is known as the "White Gold" of India, sustaining millions of farm households across Gujarat, Maharashtra, Telangana, and Punjab. High susceptibility to sucking pests and bollworm complexes requires an integrated pest management (IPM) regime emphasizing biological control, pest phenology, and threshold-based chemical application.
+
+## 2. Early Season Sucking Pest Complex
+
+### A. Cotton Aphids (Aphis gossypii) & Jassids/Leafhoppers (Amrasca biguttula)
+- **Symptoms:** Aphids excrete honeydew attracting sooty mould; leafhoppers cause downward curling of leaf margins, yellowing ("hopperburn"), and tissue necrosis.
+- **Economic Threshold Levels (ETL):** 2 jassids or 5 aphids per leaf on top, middle, and bottom leaves.
+- **Management:**
+  1. Seed treatment with Imidacloprid 70 WS @ 7 g/kg or Thiamethoxam 70 WS @ 4 g/kg seed.
+  2. Install yellow sticky traps (10-15 per acre) across field borders.
+  3. Spray Flonicamid 50 WG @ 80 g/acre or Dinotefuran 20 SG @ 60 g/acre. Avoid early-season broad-spectrum synthetic pyrethroids.
+
+### B. Whitefly (Bemisia tabaci) and Cotton Leaf Curl Virus (CLCuV)
+- **Symptoms:** Chlorotic spots, leaf curling, vectoring devastating geminivirus.
+- **Management:** Eradicate alternative weed hosts (Abutilon indicum, Parthenium hysterophorus). Spray Neem formulation (Azadirachtin 1500 ppm @ 5 ml/litre) at first notice. For heavy infestations, apply Pyriproxyfen 10 EC @ 400 ml/acre or Spiromesifen 22.9 SC @ 200 ml/acre.
+
+### C. Thrips (Thrips tabaci)
+- **Symptoms:** Silvery sheen on underside of leaves, upward cupping of leaves.
+- **Management:** Spray Fipronil 5 SC @ 2 ml/litre or Spinetoram 11.7 SC @ 1 ml/litre.
+
+## 3. Bollworm Complex Management
+
+### A. Pink Bollworm (Pectinophora gossypiella)
+- **Symptoms:** Rosetted flowers caused by larval webbing of petals; internal boll damage with stained lint and bored seeds.
+- **ETL:** 8 moths/trap/night for 3 consecutive days or 10% damaged green bolls with live larvae.
+- **Control:**
+  1. Mass trapping using gossyplure pheromone traps @ 10 traps/acre.
+  2. Release Trichogramma bactrae egg parasitoids @ 60,000/acre at weekly intervals starting 45 days after sowing.
+  3. Spray Emamectin Benzoate 5 SG @ 100 g/acre or Chlorantraniliprole 18.5 SC @ 60 ml/acre when ETL is crossed.
+
+### B. American Bollworm (Helicoverpa armigera)
+- **Control:** Install bird perches (15-20 per acre), apply HaNPV (Helicoverpa Nuclear Polyhedrosis Virus) @ 250 LE/ha with 0.1% teepol and 0.5% jaggery during evening hours.
+
+## 4. Canopy and Nutrient Management
+Excessive vegetative growth reduces boll retention and provides shade that fosters fungal boll rots.
+- Spray growth regulator Mepiquat Chloride @ 100 ppm at 70-80 days after sowing to suppress vegetative growth and redirect carbohydrates to developing bolls.
+- Foliar application of 2% Potassium Nitrate (13:0:45) at peak flowering and boll development stages substantially improves boll weight and fiber tensile strength.
